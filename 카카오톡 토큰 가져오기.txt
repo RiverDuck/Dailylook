@@ -1,0 +1,6 @@
+카카오톡 토큰 가져오기
+
+https://kauth.kakao.com/oauth/authorize?
+client_id=7f7f74e3aa50f26d0655caad524acac3
+&redirect_uri=https://example.com/oauth
+&response_type=code 
